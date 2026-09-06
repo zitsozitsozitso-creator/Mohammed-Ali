@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Ali
 
-🐍 Python Learner | 💻 Aspiring Software Developer
+🐍 Python Learner Aspiring Software Developer
 
 # About Me
 
